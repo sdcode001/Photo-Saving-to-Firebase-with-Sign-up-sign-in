@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453895932479",
+    "firebase_url": "https://sign-in-sign-up-to-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sign-in-sign-up-to-firebase",
+    "storage_bucket": "sign-in-sign-up-to-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453895932479:android:ddfe77622d363341f8468a",
+        "android_client_info": {
+          "package_name": "eu.deysouvik.sign_upsign_intofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453895932479-9kp83vfvan8iek76d08urpe7ve89mu6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8Dzy9C4dc0Ha_1kNKp2atdMbGh7xuBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453895932479-9kp83vfvan8iek76d08urpe7ve89mu6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
